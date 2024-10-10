@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" style="border-radius: 15px; height: 40px;" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
 </div>
@@ -14,7 +14,7 @@
 
 <div>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="36" />
