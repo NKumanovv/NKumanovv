@@ -1,4 +1,4 @@
-<h2 align="left">I am Nikolai Kumanov. Here is shown some of my work as a learning programmer...</h2>
+<h2 align="left">I am Nikolai Kumanov. Here is shown some of my work as a learning programmer....</h2>
 
 ###
 
