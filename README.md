@@ -11,7 +11,6 @@
   </a>
 </div>
 
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge)](mailto:nikolaikumanov006@gmail.com)
 
 ###
 
