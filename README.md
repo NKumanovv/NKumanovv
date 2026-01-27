@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nikolaikumanov006@gmail.com">    
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=nikolaikumanov006@gmail.com">    
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
   <a href="mailto:nikolaikumanov006@gmail.com">
