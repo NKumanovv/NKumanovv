@@ -3,12 +3,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/kumanovnikolai"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" /></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  <a href="https://www.instagram.com/kumanovnikolai">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+  </a>
+  <a href="mailto:nikolaikumanov006@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/kumanovnikolai">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  </a>
 </div>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kumanovnikolai) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikolai Kumanov) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikolaikumanov006@gmail.com) 
 ###
