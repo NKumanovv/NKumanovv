@@ -10,8 +10,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nikolai-kumanov-25a262399/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+  <--?style=for-the-badge&logo=linkedin&logoColor=white-->
 </div>
 
 
