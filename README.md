@@ -11,6 +11,8 @@
   </a>
   <a href="https://www.linkedin.com/in/nikolai-kumanov-25a262399/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/-LinkedIn-2e2e2e?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin-in&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
 </div>
 
