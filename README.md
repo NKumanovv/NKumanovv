@@ -6,14 +6,6 @@
   I am a Software Engineer with a strong foundation in Java backend architecture and full-stack development. I recently completed an internship at Edymanix and competed in EduHack 2026, where I helped build the frontend for "Памет в код". I am passionate about building secure, scalable microservices and clean user interfaces.
 </p>
 
-<div align="left">
-  <a href="mailto:nikolaikumanov006@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-<br>
-
 ### 🚀 Featured Projects
 
 * **[Fitness Club - Microservices](https://github.com/NKumanovv/fittnes-club)**  
