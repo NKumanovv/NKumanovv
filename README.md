@@ -1,47 +1,51 @@
-<h2 align="left">I am Nikolai Kumanov. Here is shown some of my work as a learning programmer</h2>
+<h1 align="left">Hi there, I'm Nikolai Kumanov 👋</h1>
 
-###
+<h3 align="left">Software Engineer | Java Spring & Full-Stack Development</h3>
+
+<p align="left">
+  I am a Software Engineer with a strong foundation in Java backend architecture and full-stack development. I recently completed an internship at Edymanix and competed in EduHack 2026, where I helped build the frontend for "Памет в код". I am passionate about building secure, scalable microservices and clean user interfaces.
+</p>
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=nikolaikumanov006@gmail.com">    
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
-  </a>
   <a href="mailto:nikolaikumanov006@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nikolai-kumanov-25a262399/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2e2e2e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
+<br>
 
-###
+### 🚀 Featured Projects
 
-<br clear="both">
+* **[Fitness Club - Microservices](link-to-your-repo)**  
+  A robust backend application featuring a `fitness-history-service` microservice. Built with **Java, Spring Boot, and Spring Security** to handle secure user authentication and data management.
+* **[Памет в код (EduHack 2026)](link-to-your-repo)**  
+  A full-stack digital archive built under the pressure of a hackathon to preserve local historical memory. Developed the interactive frontend using **React, Vite, Tailwind CSS, and Express.js**.
 
-<div>
-  <img src="https://devicon-website.vercel.app/api/react/original.svg" height="50" alt="react logo"></img>
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
-</div>
+<br>
 
-###
+### 🛠️ Tech Stack
 
-<img  height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+**Backend & Databases**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 
-###
+**Frontend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+<img src="https://devicon-website.vercel.app/api/react/original.svg" height="40" alt="react logo">
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
+<br>
+
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NKumanovv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-###
