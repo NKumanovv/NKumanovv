@@ -1,9 +1,9 @@
 <h1 align="left">Hi there, I'm Nikolai Kumanov 👋</h1>
 
-<h3 align="left">Software Engineer | Java Spring & Full-Stack Development</h3>
+<h3 align="left">Software Engineer | Java Spring & Full-Stack Developer</h3>
 
 <p align="left">
-  I am a Software Engineer with a strong foundation in Java backend architecture and full-stack development. I recently completed an internship at Edymanix and competed in EduHack 2026, where I helped build the frontend for "Памет в код". I am passionate about building secure, scalable microservices and clean user interfaces.
+  I am a Software Engineer with a strong foundation in Java backend architecture and full-stack development. I completed an internship at Edymanix and competed in EduHack 2026, where I helped build the frontend for "Памет в код". I am passionate about building secure, scalable microservices and clean user interfaces.
 </p>
 
 ### 🚀 Featured Projects
@@ -14,6 +14,13 @@
   A full-stack digital archive built under the pressure of a hackathon to preserve local historical memory. Developed the interactive frontend using **React, Vite, Tailwind CSS, and Express.js**.
 
 <br>
+
+###
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NKumanovv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+###
 
 ### 🛠️ Tech Stack
 
@@ -40,11 +47,4 @@
 
 <img  height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 
-
-###
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NKumanovv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-###
 
