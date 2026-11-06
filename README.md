@@ -2,10 +2,6 @@
 
 <h3 align="left">Software Engineer | Java Spring & Full-Stack Developer</h3>
 
-<p align="left">
-  I am a Software Engineer with a strong foundation in Java backend architecture and full-stack development. I completed an internship at Edymanix and competed in EduHack 2026, where I helped build the frontend for "Памет в код". I am passionate about building secure, scalable microservices and clean user interfaces.
-</p>
-
 ### 🚀 Featured Projects
 
 * **[Fitness Club - Microservices](https://github.com/NKumanovv/fittnes-club)**  
