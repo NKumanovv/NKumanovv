@@ -10,18 +10,15 @@
   <a href="mailto:nikolaikumanov006@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/nikolai-kumanov-25a262399/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
 </div>
 
 <br>
 
 ### 🚀 Featured Projects
 
-* **[Fitness Club - Microservices](link-to-your-repo)**  
+* **[Fitness Club - Microservices](https://github.com/NKumanovv/fittnes-club)**  
   A robust backend application featuring a `fitness-history-service` microservice. Built with **Java, Spring Boot, and Spring Security** to handle secure user authentication and data management.
-* **[Памет в код (EduHack 2026)](link-to-your-repo)**  
+* **[Памет в код (EduHack 2026)](https://github.com/VladislavP05/EduHack2026_Project)**  
   A full-stack digital archive built under the pressure of a hackathon to preserve local historical memory. Developed the interactive frontend using **React, Vite, Tailwind CSS, and Express.js**.
 
 <br>
